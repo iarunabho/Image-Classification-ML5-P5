@@ -5,6 +5,6 @@ This Project will contain ml5 get started files.
 
 Clone the repo and run the html file(index.htmk).
 
-``` Need to have internet connection for the code to work.
+Need to have internet connection for the code to work.
 
 🚀
